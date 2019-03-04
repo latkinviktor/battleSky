@@ -1,8 +1,7 @@
-from constants import *
+import sky
 #import sprites
 #import tk
-#import sky
 
-#sky.Sky()
-print(CELL)
-print(WIDTH)
+
+sky1 = sky.Sky()
+sky2 = sky.Sky()
