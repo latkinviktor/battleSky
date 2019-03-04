@@ -1,2 +1,3 @@
 CELL = 40
 WIDTH = 18
+HEIGHT = 12
