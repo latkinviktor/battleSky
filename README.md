@@ -1,2 +1,2 @@
 # battleSky
-my pleasant game by childship
+one of my loveing games at child
