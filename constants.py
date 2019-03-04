@@ -1,1 +1,2 @@
 CELL = 40
+WIDTH = 18

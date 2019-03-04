@@ -5,3 +5,4 @@ from constants import *
 
 #sky.Sky()
 print(CELL)
+print(WIDTH)
