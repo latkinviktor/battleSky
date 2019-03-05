@@ -1,7 +1,7 @@
-import sky
+import model.sky
 #import sprites
 #import tk
 
 
-sky1 = sky.Sky()
-sky2 = sky.Sky()
+sky1 = model.sky.Sky()
+sky2 = model.sky.Sky()
